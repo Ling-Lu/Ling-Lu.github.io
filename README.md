@@ -1,29 +1,8 @@
-# Project Gaia
+Demo: [http://webjeda.com/bheema](http://webjeda.com/bheema)
 
-## Documents
+## Installation
+* Fork the repository
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready.
 
-[    Documents   ](https://szhielelp.github.io/JekyllTheme-ProjectGaia-Docs/#/)
-
-## Change Log
-
-- **Aug 20th, 2017**
-Added post plugin configuration
-
-- **May 30th, 2017**
-Added a reading progressbar for post page.
-
-- **May 6th, 2017**
-Updated font page
-Added global font style
-
-- **April 3nd, 2017**
-Added new font
-
-- **Mar 5th, 2017**
-Style updated
-
-- **Mar 1st, 2017**
-TOC plugin updated
-
-- **Feb 28th, 2017**
-Rebuild to include **Bootstrap 4-Alpha** and **JQuery 3**
+For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
