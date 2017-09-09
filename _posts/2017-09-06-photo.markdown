@@ -1,0 +1,5 @@
+---
+layout: post
+title: "Wedding Ivitation"
+img: photo.jpg # Add image post (optional)
+---
