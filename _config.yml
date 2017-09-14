@@ -10,8 +10,8 @@ url: "/Ling-Lu.github.io" # the base hostname & protocol for your site, e.g. htt
 
 # Banner settings
 video: wedding.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: MV # add banner title
+banner-desc: Love Movie # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
